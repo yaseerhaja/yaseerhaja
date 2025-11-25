@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yaseer Haja
+# 👋 Hi, I'm Hajamohaideen Kudhbudeen
 
 <div align="center">
   
@@ -66,13 +66,6 @@ funFact: "I optimize both code and investment portfolios! 📈"
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaseerhaja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseerhaja&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  
-</div>
-
-<div align="center">
-  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaseerhaja&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
   
 </div>
@@ -88,14 +81,6 @@ funFact: "I optimize both code and investment portfolios! 📈"
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=yaseerhaja&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/yaseerhaja/yaseerhaja/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
