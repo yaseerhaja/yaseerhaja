@@ -12,7 +12,7 @@
 
 ---
 
-**Senior Frontend Engineer** — Angular · TypeScript · Design Systems
+**Senior Frontend Engineer** — Angular · TypeScript · Design Systems<br>
 Tata Consultancy Services · Client: KLM Royal Dutch Airlines · Amstelveen, Netherlands
 
 17+ years building large-scale customer-facing platforms across **aviation, banking and telecom** with Angular, React, TypeScript, Node.js and GraphQL. I specialize in shared UI libraries and design systems in Nx monorepos — component architecture, accessibility, and the tooling that lets other teams ship faster: CDK test harnesses, Storybook infrastructure, and AI-assisted developer workflows. I own technical direction end to end, from ADRs and distribution strategy to the migration paths that move a codebase forward.
@@ -58,13 +58,15 @@ Tata Consultancy Services · Client: KLM Royal Dutch Airlines · Amstelveen, Net
 
 ## 🔧 Tech Stack
 
-**Frontend** — Angular (v16–21), React, Vue.js, TypeScript, RxJS, Signals, NgRx/Redux, HTML5, CSS3/SCSS, Web Components, Next.js
-**Architecture & Design Systems** — Nx monorepos, component library design, Angular Material/CDK, Storybook, Figma, Webpack/Vite, Core Web Vitals
-**AI Engineering** — Custom agents, MCP, prompt engineering, reusable skill packages, GitHub Copilot customization, AI-assisted migration and code review
-**Accessibility** — WCAG 2.1 AA, ARIA authoring practices, VoiceOver, NVDA
-**Backend & Data** — Node.js, REST, GraphQL, MongoDB, MySQL
-**Cloud & DevOps** — Azure, Docker, Kubernetes, CI/CD pipelines, GitHub Actions
-**Testing & Quality** — Playwright, Jest, CDK Component Harness, TDD, SonarQube, Optimizely
+| Area | Tools |
+|---|---|
+| **Frontend** | Angular (v16–21), React, Vue.js, TypeScript, RxJS, Signals, NgRx/Redux, HTML5, CSS3/SCSS, Web Components, Next.js |
+| **Architecture & Design Systems** | Nx monorepos, component library design, Angular Material/CDK, Storybook, Figma, Webpack/Vite, Core Web Vitals |
+| **AI Engineering** | Custom agents, MCP, prompt engineering, reusable skill packages, GitHub Copilot customization, AI-assisted migration and code review |
+| **Accessibility** | WCAG 2.1 AA, ARIA authoring practices, VoiceOver, NVDA |
+| **Backend & Data** | Node.js, REST, GraphQL, MongoDB, MySQL |
+| **Cloud & DevOps** | Azure, Docker, Kubernetes, CI/CD pipelines, GitHub Actions |
+| **Testing & Quality** | Playwright, Jest, CDK Component Harness, TDD, SonarQube, Optimizely |
 
 <div align="center">
 
@@ -113,7 +115,7 @@ Tata Consultancy Services · Client: KLM Royal Dutch Airlines · Amstelveen, Net
 
 ## 🎓 Education
 
-**Bachelor of Technology** — Rajiv Gandhi College of Engineering and Technology, Puducherry, India · *06/2004 – 06/2008*
+**Bachelor of Technology** — Rajiv Gandhi College of Engineering and Technology, Puducherry, India · *06/2004 – 06/2008*<br>
 Specialization in Computer Science and Engineering
 
 ## 🗣️ Languages
@@ -164,7 +166,7 @@ const yaseer = {
 
 🏏 **Cricket Enthusiast** | 📈 **Multi-Market Investor** | 🎯 **FIRE Goal Achiever** | 📷 **Photography Hobbyist**
 
-💰 Active in: Stocks • Mutual Funds • Cryptocurrency
+💰 Active in: Stocks • Mutual Funds • Cryptocurrency<br>
 🌍 Markets: EUR • INR • USD
 
 </div>
